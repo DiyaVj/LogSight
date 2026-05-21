@@ -1,0 +1,4 @@
+echo "__pycache__/" >> .gitignore
+echo ".pytest_cache/" >> .gitignore
+echo "*.log" >> .gitignore
+echo "sample_logs/" >> .gitignore

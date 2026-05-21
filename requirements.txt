@@ -1,4 +1,5 @@
 # LogSight Requirements
 # Python 3.12+
 
-# TODO: Add project dependencies as needed
+# Testing
+pytest>=7.0.0
