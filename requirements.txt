@@ -1,0 +1,4 @@
+# LogSight Requirements
+# Python 3.12+
+
+# TODO: Add project dependencies as needed
